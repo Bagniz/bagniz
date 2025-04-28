@@ -14,17 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -51,5 +40,14 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+
 
 

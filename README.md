@@ -24,8 +24,11 @@
 <a href="https://instagram.com/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagniz" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<p align="left" width="47%">
   <img src="/isocalendar.svg" alt="Isocalendar"/>
+  <img src="/leetcode.svg" alt="Leetcode"/>
+</p>
+<p align="right" width="47%">
   <img src="/anilist.manga.svg" alt="Manga"/>
   <img src="/anilist.anime.svg" alt="Anime"/>
 </p>
@@ -100,6 +103,6 @@
 </p>
 
 <p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" width="40%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" width="40%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" width=47%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" width="47%" />
 </p>
