@@ -1,5 +1,8 @@
 ![header](./github-header-image.png)
+
 <h3 align="center">A passionate full-stack developer from Algeria 🇩🇿 with a nack for back-end development and a passiont for DevOps.</h3>
+
+![Achievements](/achievements.svg)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagniz" alt="bagniz" /></a> </p>
 
