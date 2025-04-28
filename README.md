@@ -1,8 +1,12 @@
 ![header](./github-header-image.png)
 
-<h3 align="center">A passionate full-stack developer from Algeria 🇩🇿 with a nack for back-end development and a passiont for DevOps.</h3>
+<p align="center">
+<a href="https://dev.to/bagniz" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bagniz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://anilist.co/user/bagniz" target="blank"><img align="center" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagniz" alt="bagniz" /></a> </p>
+<h3 align="center">A passionate full-stack developer from Algeria 🇩🇿 with a nack for back-end development and a passiont for DevOps.</h3>
 
 - 🔭 I’m currently working on **a special project called Swan**
 
@@ -16,19 +20,11 @@
 
 - ⚡ Something about me: **I am curious and autonomous**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bagniz" height="30" width="40" /></a>
-<a href="https://twitter.com/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagniz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagniz" height="30" width="40" /></a>
-<a href="https://instagram.com/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagniz" height="30" width="40" /></a>
-</p>
-
 <p>
-  <img src="/isocalendar.svg" alt="Isocalendar" width="49%"/>
-  <img src="/leetcode.svg" alt="Leetcode" width="49%"/>
-  <img src="/anilist.manga.svg" alt="Manga" width="49%"/>
-  <img src="/anilist.anime.svg" alt="Anime" width="49%"/>
+<img src="./isocalendar.svg" alt="Isocalendar" width="450"/>
+<img src="./leetcode.svg" alt="Leetcode" width="375"/>
+<img src="./anilist.manga.svg" alt="Manga" width="400"/>
+<img src="./anilist.anime.svg" alt="Anime" width="400"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -100,7 +96,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
-<p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" width="49%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" width="49%" />
+<p vertical-align="middle">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" width="47%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" width="47%" />
 </p>
