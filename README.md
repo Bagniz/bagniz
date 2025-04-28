@@ -4,7 +4,9 @@
 
 ![Achievements](/achievements.svg)
 
-![Isocalendar](/isocalendar.svg)
+<p align="center">
+  <img src="/isocalendar.svg" alt="Isocalendar" width="100%">
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagniz" alt="bagniz" /></a> </p>
 
