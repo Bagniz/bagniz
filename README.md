@@ -4,6 +4,8 @@
 
 ![Achievements](/achievements.svg)
 
+![Isocalendar](/isocalendar.svg)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagniz" alt="bagniz" /></a> </p>
 
 - 🔭 I’m currently working on **a special project called Swan**
@@ -96,7 +98,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" />
 </p>
