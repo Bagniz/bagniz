@@ -2,12 +2,6 @@
 
 <h3 align="center">A passionate full-stack developer from Algeria 🇩🇿 with a nack for back-end development and a passiont for DevOps.</h3>
 
-![Achievements](/achievements.svg)
-
-<p align="center">
-  <img src="/isocalendar.svg" alt="Isocalendar" width="100%">
-</p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagniz" alt="bagniz" /></a> </p>
 
 - 🔭 I’m currently working on **a special project called Swan**
@@ -30,8 +24,13 @@
 <a href="https://instagram.com/bagniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagniz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="/isocalendar.svg" alt="Isocalendar"/>
+  <img src="/anilist.manga.svg" alt="Manga"/>
+  <img src="/anilist.anime.svg" alt="Anime"/>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
@@ -100,9 +99,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" />
+<p >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagniz&show_icons=true&locale=en" alt="bagniz" width="40%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bagniz&" alt="bagniz" width="40%" />
 </p>
